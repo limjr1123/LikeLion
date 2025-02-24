@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\day3_3\day3_3\bin\Debug\day3_3.exe.config
+C:\LikeLion\LikeLion\day3_3\day3_3\bin\Debug\day3_3.exe
+C:\LikeLion\LikeLion\day3_3\day3_3\bin\Debug\day3_3.pdb
+C:\LikeLion\LikeLion\day3_3\day3_3\obj\Debug\day3_3.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\day3_3\day3_3\obj\Debug\day3_3.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\day3_3\day3_3\obj\Debug\day3_3.exe
+C:\LikeLion\LikeLion\day3_3\day3_3\obj\Debug\day3_3.pdb
