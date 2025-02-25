@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project대장장이키우기", "project대장장이키우기\project대장장이키우기.csproj", "{7FCD7878-B6BF-40AE-9DFF-C6A96105DE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FCD7878-B6BF-40AE-9DFF-C6A96105DE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCD7878-B6BF-40AE-9DFF-C6A96105DE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCD7878-B6BF-40AE-9DFF-C6A96105DE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCD7878-B6BF-40AE-9DFF-C6A96105DE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {420D5DD2-8D65-476C-A753-512B78F27C7B}
+	EndGlobalSection
+EndGlobal
