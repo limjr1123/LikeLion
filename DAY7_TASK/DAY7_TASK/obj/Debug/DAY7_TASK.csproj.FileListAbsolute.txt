@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\DAY7_TASK\DAY7_TASK\bin\Debug\DAY7_TASK.exe.config
+C:\LikeLion\LikeLion\DAY7_TASK\DAY7_TASK\bin\Debug\DAY7_TASK.exe
+C:\LikeLion\LikeLion\DAY7_TASK\DAY7_TASK\bin\Debug\DAY7_TASK.pdb
+C:\LikeLion\LikeLion\DAY7_TASK\DAY7_TASK\obj\Debug\DAY7_TASK.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\DAY7_TASK\DAY7_TASK\obj\Debug\DAY7_TASK.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\DAY7_TASK\DAY7_TASK\obj\Debug\DAY7_TASK.exe
+C:\LikeLion\LikeLion\DAY7_TASK\DAY7_TASK\obj\Debug\DAY7_TASK.pdb
