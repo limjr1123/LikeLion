@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\MyShootting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4847B6F0-B4C7-4F19-B84E-8A04FE51372B}|MyShootting\\MyShootting.csproj|c:\\likelion\\likelion\\myshootting\\myshootting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847B6F0-B4C7-4F19-B84E-8A04FE51372B}|MyShootting\\MyShootting.csproj|solutionrelative:myshootting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\MyShootting\\MyShootting\\Program.cs",
+              "RelativeDocumentMoniker": "MyShootting\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\MyShootting\\MyShootting\\Program.cs",
+              "RelativeToolTip": "MyShootting\\Program.cs",
+              "ViewState": "AgIAABEDAAAAAAAAAAAnwAcCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:04:49.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

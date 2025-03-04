@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\MyShootting\MyShootting\bin\Debug\MyShootting.exe.config
+C:\LikeLion\LikeLion\MyShootting\MyShootting\bin\Debug\MyShootting.exe
+C:\LikeLion\LikeLion\MyShootting\MyShootting\bin\Debug\MyShootting.pdb
+C:\LikeLion\LikeLion\MyShootting\MyShootting\obj\Debug\MyShootting.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\MyShootting\MyShootting\obj\Debug\MyShootting.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\MyShootting\MyShootting\obj\Debug\MyShootting.exe
+C:\LikeLion\LikeLion\MyShootting\MyShootting\obj\Debug\MyShootting.pdb
