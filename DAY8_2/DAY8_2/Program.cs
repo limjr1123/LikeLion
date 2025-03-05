@@ -22,35 +22,35 @@ namespace DAY8_2
     {
         static void Main(string[] args)
         {
-            ////Q1) 클래스와 상속
-            ////Warrior 클래스를 만들고 Name과 Score 속성을 추가하세요.
-            ////Warrior Strength 속성을 추가하세요.
-            ////Main 메서드에서 Warrior 객체를 생성하고, Name, Score, Strength 값을 설정한 후 출력하세요.
+            //Q1) 클래스와 상속
+            //Warrior 클래스를 만들고 Name과 Score 속성을 추가하세요.
+            //Warrior Strength 속성을 추가하세요.
+            //Main 메서드에서 Warrior 객체를 생성하고, Name, Score, Strength 값을 설정한 후 출력하세요.
 
-            //Warrior warrior = new Warrior();
+            Warrior warrior = new Warrior();
 
-            //warrior.Name = "전사";
-            //warrior.score = 12500;
-            //warrior.Strength = 150;
+            warrior.Name = "전사";
+            warrior.score = 12500;
+            warrior.Strength = 150;
 
-            //Console.WriteLine("name : " + warrior.Name);
-            //Console.WriteLine("score : " + warrior.score);
-            //Console.WriteLine("Strength : " + warrior.Strength);
+            Console.WriteLine("name : " + warrior.Name);
+            Console.WriteLine("score : " + warrior.score);
+            Console.WriteLine("Strength : " + warrior.Strength);
 
-            ////Q2) 예외처리
-            ////사용자에게 정수를 입력받고, 이를 int로 변환하는 프로그램을 작성하세요.
-            ////숫자로 변환할 수 없는 경우 FormatException을 처리하여 "올바른 숫자를 입력하세요!"라는 메시지를 출력하세요.
-            ////변환이 성공하면 입력한 숫자를 출력하세요.
-            //Console.Write("정수를 입력하세요 : ");
-            //try
-            //{
-            //    int num = int.Parse(Console.ReadLine());
-            //    Console.WriteLine($"입력한 숫자는 {num}입니다.");
-            //}
-            //catch (FormatException ex)
-            //{
-            //    Console.WriteLine("올바른 숫자를 입력하세요!");
-            //}
+            //Q2) 예외처리
+            //사용자에게 정수를 입력받고, 이를 int로 변환하는 프로그램을 작성하세요.
+            //숫자로 변환할 수 없는 경우 FormatException을 처리하여 "올바른 숫자를 입력하세요!"라는 메시지를 출력하세요.
+            //변환이 성공하면 입력한 숫자를 출력하세요.
+            Console.Write("정수를 입력하세요 : ");
+            try
+            {
+                int num = int.Parse(Console.ReadLine());
+                Console.WriteLine($"입력한 숫자는 {num}입니다.");
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine("올바른 숫자를 입력하세요!");
+            }
 
             ////Q3)컬렉션 (List, Queue, Stack) 활용
             ////List<string> 을 생성하고 "사과", "바나나", "포도"를 추가하세요.
@@ -114,8 +114,8 @@ namespace DAY8_2
             Console.WriteLine($"총 합 : {sum}");
 
 
-            
-            
+
+
             ////배열과 컬렉션
             //int[] numbers = { 1, 2, 3, 4, 5 };
             //foreach (var num in numbers)
@@ -138,25 +138,25 @@ namespace DAY8_2
 
 
 
-            //string str = null;
+            string str = null;
 
-            //if (str == null)
-            //{
-            //    Console.WriteLine("DefaultValue");
-            //}
+            if (str == null)
+            {
+                Console.WriteLine("DefaultValue");
+            }
 
-            //Console.WriteLine(str ?? "DefaultValue"); //str이 null이면 "Default Value
+            Console.WriteLine(str ?? "DefaultValue"); //str이 null이면 "Default Value
 
-            ////LINQ는 확장메서드 형태로 제공된다. 
-            ////LINQ(Language Integrated Query)를 사용해 컬렉션을 쿼리할 수있습니다.
-            //int[] numbers = { 1, 2, 3, 4, 5 };
+            //LINQ는 확장메서드 형태로 제공된다. 
+            //LINQ(Language Integrated Query)를 사용해 컬렉션을 쿼리할 수있습니다.
+            int[] numbers = { 1, 2, 3, 4, 5 };
 
-            //var evenNumbers = numbers.Where(n => n % 2 == 0);
+            var evenNumbers = numbers.Where(n => n % 2 == 0);
 
-            //foreach (var num in evenNumbers)
-            //{
-            //    Console.WriteLine(num);
-            //}
+            foreach (var num in evenNumbers)
+            {
+                Console.WriteLine(num);
+            }
 
 
             //task
