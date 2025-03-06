@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\DAY10_TEXTRPG\DAY10_TEXTRPG\obj\Debug\DAY10_TEXTRPG.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\DAY10_TEXTRPG\DAY10_TEXTRPG\obj\Debug\DAY10_TEXTRPG.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\DAY10_TEXTRPG\DAY10_TEXTRPG\bin\Debug\DAY10_TEXTRPG.exe.config
+C:\LikeLion\LikeLion\DAY10_TEXTRPG\DAY10_TEXTRPG\bin\Debug\DAY10_TEXTRPG.exe
+C:\LikeLion\LikeLion\DAY10_TEXTRPG\DAY10_TEXTRPG\bin\Debug\DAY10_TEXTRPG.pdb
+C:\LikeLion\LikeLion\DAY10_TEXTRPG\DAY10_TEXTRPG\obj\Debug\DAY10_TEXTRPG.exe
+C:\LikeLion\LikeLion\DAY10_TEXTRPG\DAY10_TEXTRPG\obj\Debug\DAY10_TEXTRPG.pdb
