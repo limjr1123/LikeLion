@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|solutionrelative:day10_task\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|c:\\likelion\\likelion\\day10_task\\day10_task\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|C:\\LikeLion\\LikeLion\\DAY10_TASK\\day10_task\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|solutionrelative:day10_task\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|c:\\likelion\\likelion\\day10_task\\day10_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|C:\\LikeLion\\LikeLion\\DAY10_TASK\\day10_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|solutionrelative:day10_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|c:\\likelion\\likelion\\day10_task\\day10_task\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|C:\\LikeLion\\LikeLion\\DAY10_TASK\\day10_task\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|solutionrelative:day10_task\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|c:\\likelion\\likelion\\day10_task\\day10_task\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|C:\\LikeLion\\LikeLion\\DAY10_TASK\\day10_task\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|solutionrelative:day10_task\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|c:\\likelion\\likelion\\day10_task\\day10_task\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|C:\\LikeLion\\LikeLion\\DAY10_TASK\\day10_task\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3CF1BC3-6902-457F-88DC-0BB008AD8746}|DAY10_TASK\\DAY10_TASK.csproj|solutionrelative:day10_task\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -59,8 +59,7 @@
               "RelativeToolTip": "DAY10_TASK\\Info.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T08:27:32.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T08:27:32.202Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "DAY10_TASK\\mainGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:45:56.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:45:56.495Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "DAY10_TASK\\Monster.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:45:05.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:45:05.422Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "DAY10_TASK\\Player.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:44:53.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:44:53.911Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "DAY10_TASK\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:44:27.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:44:27.416Z"
             }
           ]
         }
