@@ -57,7 +57,7 @@ namespace DAY10_TEXTRPG
         {
             Console.WriteLine("+====================");
             Console.WriteLine("직업 이름 : " + m_tInfo.strName);
-            Console.WriteLine("체력 : " + m_tInfo.iHp + "공격력 : " + m_tInfo.iAttack);
+            Console.WriteLine("체력 : " + m_tInfo.iHp + " 공격력 : " + m_tInfo.iAttack);
             Console.WriteLine("+====================");
 
         }
