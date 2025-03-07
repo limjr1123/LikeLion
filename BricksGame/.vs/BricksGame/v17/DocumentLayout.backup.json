@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\BricksGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|c:\\likelion\\likelion\\bricksgame\\bricksgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|solutionrelative:bricksgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|c:\\likelion\\likelion\\bricksgame\\bricksgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|solutionrelative:bricksgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|c:\\likelion\\likelion\\bricksgame\\bricksgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|solutionrelative:bricksgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|c:\\likelion\\likelion\\bricksgame\\bricksgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|solutionrelative:bricksgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|c:\\likelion\\likelion\\bricksgame\\bricksgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|solutionrelative:bricksgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|c:\\likelion\\likelion\\bricksgame\\bricksgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|solutionrelative:bricksgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|c:\\likelion\\likelion\\bricksgame\\bricksgame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A87B406-E089-4E93-A893-B9FAF110A241}|BricksGame\\BricksGame.csproj|solutionrelative:bricksgame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BARDATA.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\BARDATA.cs",
+              "RelativeDocumentMoniker": "BricksGame\\BARDATA.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\BARDATA.cs",
+              "RelativeToolTip": "BricksGame\\BARDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:24:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\Bar.cs",
+              "RelativeDocumentMoniker": "BricksGame\\Bar.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\Bar.cs",
+              "RelativeToolTip": "BricksGame\\Bar.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:23:41.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\App.config",
+              "RelativeDocumentMoniker": "BricksGame\\App.config",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\App.config",
+              "RelativeToolTip": "BricksGame\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T04:09:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\GameManager.cs",
+              "RelativeDocumentMoniker": "BricksGame\\GameManager.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\GameManager.cs",
+              "RelativeToolTip": "BricksGame\\GameManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:23:18.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\Ball.cs",
+              "RelativeDocumentMoniker": "BricksGame\\Ball.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\Ball.cs",
+              "RelativeToolTip": "BricksGame\\Ball.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:43:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BALLDATA.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\BALLDATA.cs",
+              "RelativeDocumentMoniker": "BricksGame\\BALLDATA.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\BALLDATA.cs",
+              "RelativeToolTip": "BricksGame\\BALLDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:39:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\Program.cs",
+              "RelativeDocumentMoniker": "BricksGame\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\BricksGame\\BricksGame\\Program.cs",
+              "RelativeToolTip": "BricksGame\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:33:17.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
